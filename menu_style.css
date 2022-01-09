@@ -1,0 +1,17 @@
+#content h2{
+padding-left:16px;
+padding-bottom:5px;
+color:#FF9933;
+}
+#content table{
+margin-left:15px;
+border:solid 1px #cccccc;
+}
+#content th{
+padding:5px;
+background-color:#FFFFAA;
+text-align:left;
+}
+#content td{
+padding:5px;
+}
